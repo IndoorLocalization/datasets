@@ -1,4 +1,4 @@
-The deadline for the indoor localization challeng is Sept 15, 2016.  
+The deadline for the indoor localization challenge is October 31, 2016.  
 The goal is to use the sensor measurements to estimate the x, y-coordinates of the fiducial points as accurately as possible.
 For the first fiducial point, the phone was held in a vertical position, so the y-axis was pointing up, and the z-axis was aligned with the direction that the user was facing.
 
